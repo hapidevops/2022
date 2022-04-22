@@ -25,6 +25,12 @@ The list of interesting topics include (not limited to though):
 - understanding and improving DevOps teams communication
 - understanding current practices 
 
+## Publication
+
+The workshop proceedings will be an overlay on arXiv, namely, we will upload all articles to arXiv for long-term storage and online access. 
+
+All the authors present at the workshop will have the chance of contributing to a <em>workshop summary</em>, featuring the challenges presented and discussed during the workshop, that we will submit to the <em>ACM SIGSOFT Software Engineering Notes</em>.
+
 
 ## PC members
 
