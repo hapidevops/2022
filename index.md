@@ -4,7 +4,7 @@ DevOps is a mindset and set of practices based on fostering the communication an
 
 Despite its many benefits DevOps still presents many challenges when it comes to its ease of use and accessibility. One of the reasons is the tremendous proliferation of different tools, languages and syntaxes which makes the field quite difficult to learn and keep up to date.
 
-This being the first workshop of its kind we believe its main goal should be to bring together the DevOps and the VL/HCC communities so the former can expose their problems and the latter can understand them and start thinking about how to help in solving existing challenges. Thus, we intend to organize an event where people can discuss problems and point to possible paths of solutions. 
+This being the first workshop of its kind we believe its main goal should be to bring together the DevOps and the VL/HCC and related communities so the former can expose their problems and the latter can understand them and start thinking about how to help in solving existing challenges. Thus, we intend to organize an event where people can discuss problems and point to possible paths of solutions. 
 
 
 ## Submission
