@@ -33,7 +33,8 @@ All the authors present at the workshop will have the chance of contributing to 
 
 ## PC members
 
-To be annouced.
+- Juan de Lara – Universidad Autónoma de Madrid, Spain
+- _More to be annouced._
 
 
 ## Organizers
