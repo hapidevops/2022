@@ -1,5 +1,7 @@
 theme: jekyll-theme-cayman
 title: HAPi DevOps
-description: 1st International Workshop on Human-Centric Approaches and Practices for DevOps
+description: | 
+  1st International Workshop on Human-Centric Approaches and Practices for DevOps
+  (HAPi DevOps 2022)
 github:
   is_project_page: false
