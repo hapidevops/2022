@@ -1,4 +1,4 @@
-# HAPi DevOps
+# HAPi DevOps 2022
 
 DevOps is a mindset and set of practices based on fostering the communication and collaboration between those more concerned with software development (Dev) and those concerned with operations (Ops). The practices that compose it extent to collaboration aspects and organizational and team design, but also to technical aspects that range from deployment automation, to monitoring and observability, and to software architecture, among others.
 
