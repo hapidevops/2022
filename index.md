@@ -33,6 +33,8 @@ All the authors present at the workshop will have the chance of contributing to 
 
 ## PC members
 
+- Davide Taibi – Tampere University, Finland
+- Florian Rademacher – U. Applied Science & Arts Dortmund, Germany
 - Juan de Lara – Universidad Autónoma de Madrid, Spain
 - _More to be annouced._
 
