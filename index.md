@@ -27,13 +27,16 @@ The workshop proceedings will be an overlay on arXiv, namely, we will upload all
 
 All the authors present at the workshop will have the chance of contributing to a <em>workshop summary</em>, featuring the challenges presented and discussed during the workshop, that we will submit to the <em>ACM SIGSOFT Software Engineering Notes</em>.
 
+## Important dates
+
+_To be annouced soon._
 
 ## PC members
 
 - Davide Taibi – Tampere University, Finland
 - Florian Rademacher – U. Applied Science & Arts Dortmund, Germany
 - Juan de Lara – Universidad Autónoma de Madrid, Spain
-- _More to be annouced._
+- _More to be annouced soon._
 
 
 ## Organizers
