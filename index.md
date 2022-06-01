@@ -27,7 +27,10 @@ All the authors present at the workshop will have the chance of contributing to 
 
 ## Important dates
 
-_To be annouced soon._
+ * Submission: 30 Jun
+ * Notifications: 15 Jul
+ * Camera-ready: 28 Jul
+ * Workshop: 16 Sep, Friday
 
 ## PC members
 
