@@ -36,6 +36,7 @@ All the authors present at the workshop will have the chance of contributing to 
 
 - Davide Taibi – Tampere University, Finland
 - Florian Rademacher – U. Applied Science & Arts Dortmund, Germany
+- Jessica Diaz – Universidad Politécnica de Madrid, Spain
 - Juan de Lara – Universidad Autónoma de Madrid, Spain
 - _More to be annouced soon._
 
