@@ -44,7 +44,7 @@ All the authors present at the workshop will have the chance of contributing to 
 
 ## Organizers
 
-- [Jácome Cunha](http://fe.up.pt/~jacome), Faculty of Engineering, University of Porto, Portugal
-- [Filipe Correia](http://filipecorreia.eu), Faculty of Engineering, University of Porto, Portugal
+- [Jácome Cunha](http://fe.up.pt/~jacome) – Faculty of Engineering, University of Porto, Portugal
+- [Filipe Correia](http://filipecorreia.eu) – Faculty of Engineering, University of Porto, Portugal
 
 Please contact us if you have any questions or suggestions.
