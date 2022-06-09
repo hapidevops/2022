@@ -6,9 +6,7 @@ Despite its many benefits DevOps still presents many challenges when it comes to
 
 We motivate researchers and practitioners to submit their work (possibly in progress) about this topic to be presented and discussed at the workshop. You can also submit open issues deserved to be discussed as well as position papers. 
 
-Submissions will be up to 4 pages 
-
-Each submission will be reviewed by the organizers and the program committee mostly to validate the adequacy of the submission to the workshop. 
+Submissions will be up to 4 pages and will be reviewed by the organizers and the program committee mostly to validate the adequacy of the submission to the workshop. 
 
 The list of interesting topics include (not limited to though):
 
@@ -17,7 +15,9 @@ The list of interesting topics include (not limited to though):
 - modeling DevOps technologies and pipelines
 - leveraging understanding of text-based specification/IaC languages
 - understanding and improving DevOps teams communication
-- understanding current practices 
+- understanding current practices
+
+Submit [via eaychair](https://easychair.org/conferences/?conf=hapidevops2022).
 
 ## Publication
 
