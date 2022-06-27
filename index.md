@@ -27,7 +27,7 @@ All the authors present at the workshop will have the chance of contributing to 
 
 ## Important dates
 
- * Submission: 30 Jun
+ * Submission: ~~30 Jun~~ 8 Jul (extended)
  * Notifications: 15 Jul
  * Camera-ready: 28 Jul
  * Workshop: 16 Sep, Friday
